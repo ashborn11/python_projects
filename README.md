@@ -1,7 +1,7 @@
 # Python Projects
-***
 Learning Python though basic projects
----
+
 ## Libraries Used
-1. qrcode
+1.  qrcode
+2.  openpyxl
 
