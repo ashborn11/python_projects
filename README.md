@@ -13,6 +13,6 @@ Learning Python though basic projects
 2.  openpyxl
 
 ## Learning and reference 
-[w3schools](https://www.w3schools.com/python/python_intro.asp)
-[Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)
+[w3schools](https://www.w3schools.com/python/python_intro.asp)     
+[Programming with Mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc)     
 [FreeCodeCamp](https://www.youtube.com/watch?v=pdy3nh1tn6I&list=PPSV)
